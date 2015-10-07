@@ -1,13 +1,13 @@
 # Exportações
 
-## Updates (hook_updb_N)
+## Updates (hook_update_N)
 - Funcionamento
 - Cuidados
   - Podem quebrar a montagem do ambiente
   - Inserir o drupal_set_installed_schema_version para iniciar o updb
     - Mindset que todos os updates irão ser executados
 
-## Configuration Manager
+## Configuration Management
 - Funcionamento
 - Cuidados
  - Avisar o time sobre o envio de atualizações
